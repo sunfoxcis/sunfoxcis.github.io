@@ -3,7 +3,7 @@
 }
 
 p {
-	text-transform: cursive;
+	font-family: cursive;
 }
 
 .zhopa {
@@ -14,3 +14,4 @@ p {
 .jams {
 	font-stretch: 40;
 }
+
