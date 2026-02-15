@@ -3,7 +3,7 @@
 }
 
 p {
-	font-family: cursive;
+	color: orange;
 }
 
 .zhopa {
@@ -15,3 +15,7 @@ p {
 	font-stretch: 40;
 }
 
+ul {
+	font-family: bold;
+}
+	
